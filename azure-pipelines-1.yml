@@ -1,0 +1,5 @@
+pool: localpool
+
+steps:
+- script: hostname
+  
